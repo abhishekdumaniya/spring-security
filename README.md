@@ -49,10 +49,8 @@ spring.datasource.password=password
 
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
-
----
 ```
-
+---
 
 If you want, I can also:
 - Customize this README **exactly to your APIs**
